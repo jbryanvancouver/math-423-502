@@ -7,7 +7,7 @@ This course is Math 423/502 and consists of two parts:
 
 Grades will be based on two midterm (in class) exams, one on representation theory, one on homological algebra. Dates of the midterms to be announced. Weekly homework will be assigned but not graded --- however, the problems on the exams will be a subset of the homework problems. Midterm Dates TBA.
 
-  * The lectures will be on Tuesdays and Thursdays from 2:00 to 3:20 in TBA
+  * The lectures will be on Tuesdays and Thursdays from 2:00 to 3:20 in room MATH 203
   * Basic references for the course are Serre's book "Linear Representations of Finite Groups", Fulton and Harris's "Representation Theory" (Part I only), Weibel's "An Introduction to Homological Algebra", and Appendix 3 ("Homological Algebra") of Eisenbud's "Commutative Algebra" book. 
   
 ### Homework assignments:
