@@ -10,9 +10,9 @@ Grades will be based on two midterm (in class) exams, one on representation theo
   * The lectures will be on Tuesdays and Thursdays from 2:00 to 3:20 in room MATH 203
   * Basic references for the course are Serre's book "Linear Representations of Finite Groups", Fulton and Harris's "Representation Theory" (Part I only), Weibel's "An Introduction to Homological Algebra", and Appendix 3 ("Homological Algebra") of Eisenbud's "Commutative Algebra" book. 
   
-### Homework assignments:
+### Homework assignments
   
-  * Assignment 1: TBA
+  * [Representation theory homework 1]:(https://jbryanvancouver.github.io/math-423-502/homework.pdf)
   * Assignment 2: TBA
   
   [Return to Jim Bryan's homepage](https://www.math.ubc.ca/~jbryan)
