@@ -14,5 +14,6 @@ Grades will be based on two midterm (in class) exams, one on representation theo
   
   * [Representation theory homework 1](https://jbryanvancouver.github.io/math-423-502/homework.pdf) . Be prepared to discuss these problems by Thursday Jan 24th. 
   * [Representation theory homework 2](https://jbryanvancouver.github.io/math-423-502/homework2.pdf) . Be prepared to discuss these problems by Tuesday Feb 5th. 
-  
+   * [Representation theory homework 3](https://jbryanvancouver.github.io/math-423-502/homework3.pdf) . Be prepared to discuss these problems by TBA. 
+   
   [Return to Jim Bryan's homepage](https://www.math.ubc.ca/~jbryan)
