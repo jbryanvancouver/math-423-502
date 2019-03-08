@@ -19,5 +19,6 @@ The first midterm will take place in class on Tuesday February 26th. It will con
   * [Representation theory homework 2](https://jbryanvancouver.github.io/math-423-502/homework2.pdf) . Be prepared to discuss these problems by Tuesday Feb 5th. 
   * [Representation theory homework 3](https://jbryanvancouver.github.io/math-423-502/homework3.pdf) . Be prepared to discuss these problems by Feb 12th. 
   * [Representation theory homework 4](https://jbryanvancouver.github.io/math-423-502/HW4.pdf) . Be prepared to discuss these problems by Feb 28th. 
-   
+  * [Representation theory homework 5](https://jbryanvancouver.github.io/math-423-502/HW5.pdf) . Be prepared to discuss these problems by March 14th. 
+ 
   [Return to Jim Bryan's homepage](https://www.math.ubc.ca/~jbryan)
