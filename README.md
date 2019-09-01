@@ -7,7 +7,7 @@ This course is Math 423/502 and consists of two parts:
 
 Grades will be based on two midterm (in class) exams, one on representation theory, one on homological algebra. Dates of the midterms to be announced. Weekly homework will be assigned but not graded --- however, the problems on the exams will be a subset of the homework problems. 
 
-#### Midterm 1:
+### Midterm 1:
 The first midterm will take place in class on Tuesday February 26th. It will consist of some subset of problems from Homework assignments 1, 2, and 3. 
   
 ### Midterm 2:
