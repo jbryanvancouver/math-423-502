@@ -19,10 +19,10 @@ The second and final midterm will be in class on Thursday, April 3rd. It will co
   
 ### Homework assignments
   
-  * [Representation theory homework 1](https://jbryanvancouver.github.io/math-423-502/homework.pdf) . Be prepared to discuss these problems by Thursday Jan 23th. 
-  * [Representation theory homework 2](https://jbryanvancouver.github.io/math-423-502/homework2.pdf) . Be prepared to discuss these problems by Tuesday Feb 4th. 
-  * [Representation theory homework 3](https://jbryanvancouver.github.io/math-423-502/homework3.pdf) . Be prepared to discuss these problems by Feb 11th. 
-  * [Homological algebra homework 4](https://jbryanvancouver.github.io/math-423-502/HW4.pdf) . Be prepared to discuss these problems by Feb 27th. 
-  * [Homological algebra homework 5](https://jbryanvancouver.github.io/math-423-502/HW5.pdf) . Be prepared to discuss these problems by March 27th.
+  * [Representation theory homework 1](https://jbryanvancouver.github.io/math-423-502/homework.pdf) . Be prepared to discuss these problems by TBA. 
+  * [Representation theory homework 2](https://jbryanvancouver.github.io/math-423-502/homework2.pdf) . Be prepared to discuss these problems by TBA. 
+  * [Representation theory homework 3](https://jbryanvancouver.github.io/math-423-502/homework3.pdf) . Be prepared to discuss these problems by TBA. 
+  * [Homological algebra homework 4](https://jbryanvancouver.github.io/math-423-502/HW4.pdf) . Be prepared to discuss these problems by TBA. 
+  * [Homological algebra homework 5](https://jbryanvancouver.github.io/math-423-502/HW5.pdf) . Be prepared to discuss these problems by TBA.
  
   [Return to Jim Bryan's homepage](https://www.math.ubc.ca/~jbryan)
