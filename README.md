@@ -21,7 +21,7 @@ The second and final midterm will be in class on TBA. It will consist of the fol
 
   * [Representation theory homework 0](https://jbryanvancouver.github.io/math-423-502/HW0.pdf) . Be prepared to discuss these problems by Tuesday Jan 28th. 
   * [Representation theory homework 1](https://jbryanvancouver.github.io/math-423-502/homework.pdf) . Be prepared to discuss these problems by Tuesday Jan 28th. 
-  * [Representation theory homework 2](https://jbryanvancouver.github.io/math-423-502/homework2.pdf) . Be prepared to discuss these problems by TBA. 
+  * [Representation theory homework 2](https://jbryanvancouver.github.io/math-423-502/homework2.pdf) . Be prepared to discuss these problems by Tuesday, Feb 11th. 
   * [Representation theory homework 3](https://jbryanvancouver.github.io/math-423-502/homework3.pdf) . Be prepared to discuss these problems by TBA. 
   * [Homological algebra homework 4](https://jbryanvancouver.github.io/math-423-502/HW4.pdf) . Be prepared to discuss these problems by TBA. 
   * [Homological algebra homework 5](https://jbryanvancouver.github.io/math-423-502/HW5.pdf) . Be prepared to discuss these problems by TBA.
