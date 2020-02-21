@@ -8,7 +8,7 @@ This course is Math 423/502 and consists of two parts:
 Grades will be based on two midterm (in class) exams, one on representation theory, one on homological algebra. Dates of the midterms to be announced. Weekly homework will be assigned but not graded --- however, the problems on the exams will be a subset of the homework problems. 
 
 ### Midterm 1:
-The first midterm will take place in class on TBA. It will consist of some subset of problems from Homework assignments 1, 2, and 3. 
+The first midterm will take place in class on February 25th. I have reserved the room for an extra hour. You will be given 120 minutes. It will consist of some subset of problems from Homework assignments 0, 1, and 2. 
   
 ### Midterm 2:
 The second and final midterm will be in class on TBA. It will consist of the following material. Some subset of problems from homework 4 and homework 5 adapted to the midterm setting. Also possibly problems regarding left and right derived functors. In particular, you should know the definitions, the basic properties, and how to prove them. 
