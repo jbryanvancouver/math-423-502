@@ -1,5 +1,7 @@
 ## Representation Theory of Finite Groups and Homological Algebra
 
+[Link to Canvas Page]https://canvas.ubc.ca/courses/37760
+
 This course is Math 423/502 and consists of two parts:
 
   * **Representation Theory of Finite Groups.** A representation of a finite group is an embedding of the group into a matrix group. Representations arise naturally, for example, when studying the set of symmetries of a geometric or combinatorial object. Representations can be uniquely decomposed into irreducible representations; we will classify the irreducible representations of a group. Using the theory of characters we will learn how to effectively decompose an arbitrary representation into its irreducible constituents. We will apply the theory of characters to solve a nice problem in the topology of surfaces. The key idea is the concept of a 1+1 dimensional Topological Quantum Field Theory and its relationship to Frobenius algebras.
