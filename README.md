@@ -1,6 +1,6 @@
 ## Representation Theory of Finite Groups and Homological Algebra
 
-[Link to Canvas Page]https://canvas.ubc.ca/courses/37760
+[Link to Canvas Page](https://canvas.ubc.ca/courses/37760)
 
 This course is Math 423/502 and consists of two parts:
 
