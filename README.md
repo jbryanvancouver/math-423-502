@@ -18,7 +18,7 @@ Instead of having a final, I will be collecting homework for grades. This will a
 
 ## TQFT Notes
 
-[Here](ZCG-TQFT-notes.pdf) is a scan of my lecture notes for the material on the TQFT associated to ZCG, the center of the group algebra. It has some topological details that I will not go over in class and that you are not formally responsible for, but may be interested in, especially if you have seen the fundamental group before. The scan quality is not very good. [This](TQFT-ZCG-notes-higherquality.PDF) should be of better quality. 
+[Here](TQFT-ZCG-notes-higherquality.PDF) is a scan of my lecture notes for the material on the TQFT associated to ZCG, the center of the group algebra. It has some topological details that I will not go over in class and that you are not formally responsible for, but may be interested in, especially if you have seen the fundamental group before.
 
 ## basic info:
 
