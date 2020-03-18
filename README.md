@@ -16,9 +16,13 @@ The first midterm will take place in class on Tuesday, February 25th. I have res
 
 Instead of having a final, I will be collecting homework for grades. This will apply to TQFT homework 1, Homological algebra homework 0, and homological algebra 1. I think that we will not get as far as homological algebra homework 2, so that might be extra credit. Homework should be sent to me by email if you have LaTeXed it or have a high quality scan of it. You can also put it under my door in the math department. 
 
+## TQFT Notes
 
+Here is a scan of my lecture notes for the material on the TQFT associated to ZCG, the center of the group algebra. It has some topological details that I will not go over in class and that you are not formally responsible for, but may be interested in, especially if you have seen the fundamental group before. The scan quality is not very good. I hope to replace it with a better scan soon. 
 
-  * The lectures will be on Tuesdays and Thursdays from 11:00 am to 12:20 pm in room MATHX 1102.
+## basic info:
+
+  * The lectures will be on Tuesdays and Thursdays from 11:00 am to 12:20 pm ~in room MATHX 1102~  online using Collaborate Ultra through the course Canvas page.
   * Basic references for the course are Serre's book "Linear Representations of Finite Groups", Fulton and Harris's "Representation Theory" (Part I only), Weibel's "An Introduction to Homological Algebra", and Appendix 3 ("Homological Algebra") of Eisenbud's "Commutative Algebra" book. For a basic refence on TQFTs I suggest "Frobenius Algebras and 2D Topological Quantum Field Theories" by Joachim Kock. Also [this expository paper](http://www.physics.rutgers.edu/~gmoore/695Fall2015/TopologicalFieldTheory.pdf) by Greg Moore might be helpful. The paper [Derived Categories for the Working Mathematician](https://arxiv.org/abs/math/0001045) is a helpful introduction to the derived category. 
 
   
