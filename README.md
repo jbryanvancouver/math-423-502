@@ -23,6 +23,7 @@ Instead of having a final, I will be collecting homework for grades. This will a
 ## basic info:
 
   * The lectures will be on Tuesdays and Thursdays from 11:00 am to 12:20 pm ~in room MATHX 1102~  online using Collaborate Ultra through the course Canvas page.
+  * I have added a Piazza discussion page for this course. It is accessible from the Canvas page.
   * Basic references for the course are Serre's book "Linear Representations of Finite Groups", Fulton and Harris's "Representation Theory" (Part I only), Weibel's "An Introduction to Homological Algebra", and Appendix 3 ("Homological Algebra") of Eisenbud's "Commutative Algebra" book. For a basic refence on TQFTs I suggest "Frobenius Algebras and 2D Topological Quantum Field Theories" by Joachim Kock. Also [this expository paper](http://www.physics.rutgers.edu/~gmoore/695Fall2015/TopologicalFieldTheory.pdf) by Greg Moore might be helpful. The paper [Derived Categories for the Working Mathematician](https://arxiv.org/abs/math/0001045) is a helpful introduction to the derived category. 
 
   
