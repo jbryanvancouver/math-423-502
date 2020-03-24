@@ -1,0 +1,115 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsfonts, amsmath, amsthm}
+\usepackage{tikz-cd}
+\usepackage{amsmath,amscd}
+\usepackage{verbatim}
+\addtolength{\evensidemargin}{-01in}
+\addtolength{\oddsidemargin}{-01in}
+\addtolength{\textwidth}{2in}
+\addtolength{\textheight}{2in}
+\addtolength{\topmargin}{-.5in}
+
+
+%\begingroup
+%\catcode`\&=13
+%\gdef\pampmatrix{%
+%  \begingroup
+%  \let&=\amsamp
+%  \begin{pmatrix}%
+%}
+%\gdef\endpampmatrix{\end{pmatrix}\endgroup}
+%\endgroup
+
+
+\newcommand{\ZZ}{\mathbb{Z}}
+\newcommand{\CC}{\mathbb{C}}
+\begin{document}
+
+
+\begin{center}{\Large
+\vspace{2cm}
+
+\bf  Homological Algebra Homework problem set 0\quad   Math 423\quad  \\
+}
+\vspace{.5in}
+
+\end{center}
+
+In the following problems, elements of direct sums will be considered
+as row vectors and the maps will be expressed as matrices, acting on
+row vectors by multiplication on the right. 
+
+\begin{enumerate}
+\item Compute the homology groups of the following complex of
+$\CC$-modules (a.k.a. complex vector spaces). The first non-trivial
+one is in degree 3, the last is in degree 0:
+
+\[
+\begin{tikzcd}[column sep=large,ampersand replacement=\&]
+0 \arrow{r} \&
+\CC^{2} \arrow{r}{
+ \left( \begin{smallmatrix} 9 & 9 \\ 6 & 6 \end{smallmatrix}  \right) } \& 
+\CC^{2} \arrow{r}{ \left( \begin{smallmatrix} -5 & 10 \\ 5 & -10 \end{smallmatrix}  \right) } \& 
+\CC^{2} \arrow{r}{  \left( \begin{smallmatrix} 10 & 6 \\ 5 & 3 \end{smallmatrix} \right) } \&
+\CC^{2} \arrow{r} \& 0 
+\end{tikzcd}
+\]
+\item Compute the homology groups of the following complex of
+$\ZZ $-modules (a.k.a. Abelian groups). The first non-trivial
+one is in degree 3, the last is in degree 0:
+
+\[
+\begin{tikzcd}[column sep=large,ampersand replacement=\&]
+0 \arrow{r} \&
+\ZZ^{2} \arrow{r}{
+ \left( \begin{smallmatrix} 9 & 9 \\ 6 & 6 \end{smallmatrix}  \right) } \& 
+\ZZ^{2} \arrow{r}{ \left( \begin{smallmatrix} -5 & 10 \\ 5 & -10 \end{smallmatrix}  \right) } \& 
+\ZZ^{2} \arrow{r}{  \left( \begin{smallmatrix} 10 & 6 \\ 5 & 3 \end{smallmatrix} \right) } \&
+\ZZ^{2} \arrow{r} \& 0 
+\end{tikzcd}
+\]
+
+
+\item Let $R$ be the ring $\CC [x,y]$. Compute
+the homology groups of the following complex of $R$ modules
+(the first non-trivial module is in degree 2, the last non-trivial
+module is in degree 0):
+\[
+0\to R \xrightarrow{\,\, \alpha  \,\,}  R\oplus R \xrightarrow{\,\, \beta  \,\,}
+R   \to 0
+\]
+where $\alpha : f(x,y)\mapsto (x\cdot f(x,y),y\cdot f(x,y))$ and
+$\beta : (g(x,y),h(x,y)) \mapsto y\cdot g(x,y)- x\cdot h(x,y)$.  
+\item
+Consider map of complexes given below. Compute the homology groups of
+each complex and then compute the induced map from the homology groups
+of the first complex to the homology of the second.
+
+\[
+\begin{tikzcd}[column sep=large,ampersand replacement=\&]
+0 \arrow{r}\arrow{d} \&
+\ZZ^{2} \arrow{d}{\left(\begin{smallmatrix} 6\\ 4 \end{smallmatrix} \right)} \arrow{r}{
+ \left( \begin{smallmatrix} 9 & 9 \\ 6 & 6 \end{smallmatrix}  \right) } \& 
+\ZZ^{2}  \arrow{d}{\left(\begin{smallmatrix} 5\\ -1 \end{smallmatrix} \right)} \arrow{r}{ \left( \begin{smallmatrix} -5 & 10 \\ 5 & -10 \end{smallmatrix}  \right) } \& 
+\ZZ^{2}  \arrow{d}{\left(\begin{smallmatrix} 2\\ 1 \end{smallmatrix}
+\right)} \arrow{r}{  \left( \begin{smallmatrix} 10 & 6 \\ 5 & 3 \end{smallmatrix} \right) } \&
+\ZZ^{2}  \arrow{d}{\left(\begin{smallmatrix} 2\\ 2 \end{smallmatrix} \right)} \arrow{r} \& 0 \arrow{d} \\
+0 \arrow{r} \&
+\ZZ \arrow{r}{ \cdot 6 } \& 
+\ZZ \arrow{r}{\cdot 0 } \& 
+\ZZ \arrow{r}{ \cdot 16 } \&
+\ZZ \arrow{r} \& 0 
+\end{tikzcd}
+\]
+
+
+
+\end{enumerate}
+
+
+
+
+
+          
+\end{document}
