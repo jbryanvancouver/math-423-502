@@ -16,9 +16,12 @@ The first midterm will take place in class on Tuesday, February 25th. I have res
 
 Instead of having a final, I will be collecting homework for grades. This will apply to TQFT homework 1, Homological algebra homework 0, and homological algebra 1. I think that we will not get as far as homological algebra homework 2, so that might be extra credit. Homework should be sent to me by email if you have LaTeXed it or have a high quality scan of it. You can also put it under my door in the math department. 
 
-## TQFT Notes
+## TQFT and Homological Algebra Notes
 
 [Here](TQFT-ZCG-notes-higherquality.PDF) is a scan of my lecture notes for the material on the TQFT associated to ZCG, the center of the group algebra. It has some topological details that I will not go over in class and that you are not formally responsible for, but may be interested in, especially if you have seen the fundamental group before.
+
+[Here](Homo-Alg-Notes.PDF) is a scan of my lecture notes for Homological Algebra. A lot of this material is drawn from Appendix A in Eisenbud's book on Commutative Algebra.
+
 
 ## basic info:
 
