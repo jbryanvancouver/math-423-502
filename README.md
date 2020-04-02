@@ -37,7 +37,7 @@ Instead of having a final, I will be collecting homework for grades. This will a
   * [Representation theory homework 2](homework2.pdf) . Be prepared to discuss these problems by Tuesday, Feb 11th. 
   * [TQFT homework 1](homework3.pdf) . Due Tuesday March 24th. 
   * [Homological algebra homework 0](https://jbryanvancouver.github.io/math-423-502/Homol-Alg-HW0.pdf) . Due Tuesday March 31st.
-  * [Homological algebra homework 1](https://jbryanvancouver.github.io/math-423-502/HW4.pdf) . Due TBA
+  * [Homological algebra homework 1](https://jbryanvancouver.github.io/math-423-502/HW4.pdf) . Choose any 3 of the 5 problems. Also complete problem 1 from homological algebra homework 2. Due Thursday, April 9th.
   * [Homological algebra homework 2](https://jbryanvancouver.github.io/math-423-502/HW5.pdf) . Bonus homework.
  
   [Return to Jim Bryan's homepage](https://www.math.ubc.ca/~jbryan)
