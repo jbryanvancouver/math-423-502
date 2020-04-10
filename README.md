@@ -38,7 +38,7 @@ Instead of having a final, I will be collecting homework for grades. This will a
   * [TQFT homework 1](homework3.pdf) . Due Tuesday March 24th. 
   * [Homological algebra homework 0](Homol-Alg-HW0.pdf) . Due Tuesday March 31st.
   * [Homological algebra homework 1](HW4.pdf) . Choose any 3 of the 5 problems. Also complete problem 1 from homological algebra homework 2. Due Thursday, April 9th.
-  * [Homological algebra homework 2](HW5.pdf) . Bonus homework.
+  * [Homological algebra homework 2](HW5.pdf) . Bonus homework. [This diagram](Homol-Alg-HW2-prob1-hint.pdf) may help with problem 1. 
   
   * Here are links to the tex files associated to the homological algebra homeworks. This is if you want to see how I went about LaTeXing the commutative diagrams.  [Homological algebra homework 0 .tex file](Homol-Alg-HW0.tex), [Homological algebra homework 1, .tex file](HW4.tex) , [Homological algebra homework 2, .tex file](HW5.tex)
  
